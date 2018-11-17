@@ -6,8 +6,8 @@ For classify a dataset of twitter's profile in 2 categories.
 
 ### Mockup of the project
 
-![mockup] (screens/mockup.PNG)
+![mockup](screens/mockup.PNG)
 
 ### Interface
 
-![interface] (screens/classi.PNG)
+![classi](screens/classi.PNG)
