@@ -1,0 +1,54 @@
+body
+{
+	background-color: #ecf0f1;
+}
+
+.card-header
+{
+	background-color: #7ed6df;
+}
+
+header
+{
+	background-color: #7ed6df;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+header li
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition-duration: 0.7s;
+}
+
+header li:hover
+{
+	background-color: #c7ecee;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+header li:checked
+{
+	font-weight: bold;
+}
+
+ul
+{
+	list-style:none;
+	margin-left:0;
+	padding-left:0;
+}
+
+article img
+{
+	height: 17px;
+	width:17px;
+}
+
+.link
+{
+	margin-right:5px;
+	width:15px;
+}
